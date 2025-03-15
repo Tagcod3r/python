@@ -50,16 +50,16 @@ Run any program independently using these commands:
 
 ```bash
 # BMI Calculator (GUI)
-python bmi_calculator.py
+python BMI.py
 
 # Koch Snowflake Generator
-python koch_snowflake.py
+python snowflake.py
 
 # Sierpinski Triangle
-python sierpinski_triangle.py
+python sierpinski.py
 
 # Wikipedia Image Scraper
-python wikipedia_scraper.py
+python wikipedia.py
 ```
 
 **Note**: The Wikipedia Scraper defaults to Sachin Tendulkar's page. Modify the `URL` variable in the script to target different pages.
