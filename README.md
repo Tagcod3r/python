@@ -63,14 +63,3 @@ python wikipedia_scraper.py
 ```
 
 **Note**: The Wikipedia Scraper defaults to Sachin Tendulkar's page. Modify the `URL` variable in the script to target different pages.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-
-**Maintainer**: Your Name | **Contact**: your.email@domain.com  
-**Documentation Last Updated**: October 2023
