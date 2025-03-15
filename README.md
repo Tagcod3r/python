@@ -53,10 +53,10 @@ Run any program independently using these commands:
 python BMI.py
 
 # Koch Snowflake Generator
-python snowflake.py
+python snowFlake.py
 
 # Sierpinski Triangle
-python sierpinski.py
+python seirpinski.py
 
 # Wikipedia Image Scraper
 python wikipedia.py
